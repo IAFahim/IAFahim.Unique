@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/IAFahim.Unique.Bench/IAFahim.Unique.Bench.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/IAFahim.Unique/IAFahim.Unique.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/IAFahim.Unique.Tests/IAFahim.Unique.Tests.csproj" />
+  </Folder>
+</Solution>
